@@ -9,8 +9,7 @@ All pieces are found in a dedicated "hammer", BJORKSNAS.
 item_BJORKSNAS takes FineWood, QueenBee and 999 Coins to craft. 
 Recipe can be locked/adjusted via SERVER SYNC config.
 
-VALKEA offers everything ranging from kitchen wares, buildable foods for a better pantry, window coverings, domestic goods, new stones, suspension bridges
-new hives and an ENTIRE collection of LIGHT SHEAWOOD to build a brighter more upbeat homestead!
+VALKEA offers everything ranging from kitchen wares, buildable foods for a better pantry, window coverings, domestic goods, new stones, suspension bridges, spiral stair cases, new hives and an ENTIRE collection of LIGHT SHEAWOOD to build a brighter more upbeat homestead!
 
 -
 -
