@@ -11,6 +11,7 @@ Recipe can be locked/adjusted via SERVER SYNC config.
 
 VALKEA offers everything ranging from kitchen wares, buildable foods for a better pantry, window coverings, domestic goods, new stones, suspension bridges, spiral stair cases, new hives and an ENTIRE collection of LIGHT SHEAWOOD to build a brighter more upbeat homestead!
 
+Valkea only requires BEPINEX as a dependency. Why? I want this mod as vanilla friendly as possible. Don't like the recipes? Use a custom recpie mod. 
 -
 -
 -
