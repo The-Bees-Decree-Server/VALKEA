@@ -15,6 +15,9 @@ All pieces are found in a dedicated "hammer", BJORKSNAS.</br>
 <p>
 item_BJORKSNAS takes FineWood, QueenBee and 999 Coins to craft. 
 Recipe can be locked/adjusted via SERVER SYNC config.</p>
+  
+#### Install by unzipping package and dropping VALKEA.dll into your client side/and*or\ server plugins folder.
+asetia.VALKEA.cfg will generate upon running game/restarting server. 
 
 <br>
 
@@ -25,7 +28,7 @@ Valkea only requires BEPINEX as a dependency. Why? I want this mod as vanilla fr
 #### VALKEA WAS CREATED VIA BLAXXUN ITEM MANAGER AND AZUMATT ITEM TEMPLATE
 <p>  
   
-### Big thanks to Blaxxun for itemmanager, Azu for template and putting up with me, GraveBear and Hugo for tips and tricks and KG for tellin' me to get good :orange_heart:       
+### Big thanks to Blaxxun for itemmanager, Azu for template and putting up with me, GraveBear and Hugo for tips and tricks and KG for tellin' me to get good :orange_heart:       Could not have done it without all the help!
 
 <br><br><br>
   
