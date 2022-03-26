@@ -65,7 +65,7 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
   
   
    
-MODEL CREDITS
+<sub> MODEL CREDITS
 
 Model Information:
 * title:	ミナミメダカ 骨格 Bones of the ricefish, Oryzias latipes
@@ -255,4 +255,4 @@ Model Information:
 Model Information:
 * title:	Whiskey and Wine Low-Poly Bottles
 * source:	https://sketchfab.com/3d-models/whiskey-and-wine-low-poly-bottles-99999f032f624e8cb05651f041dbf8eb
-* author:	THunter (https://sketchfab.com/TwilightHunter)
+* author:	THunter (https://sketchfab.com/TwilightHunter)</sub>  
