@@ -1,17 +1,22 @@
 # VALKEA 1.0.0
-A creation from The Hive.
-<br><br><br>
-250+ Brand Spanking New Build Pieces for a more upbeat homestead.</br></br></br>
-  
-<br><br><br>
+A creation from The Hive.  
+
+<br><br>
+
+#### 250+ Brand Spanking New Build Pieces for a more upbeat homestead.</br></br></br>
+
+<br><br>
+
 VALKEA offers everything ranging from kitchen wares, buildable foods for a better pantry, window coverings, domestic goods, new stones, suspension bridges, spiral stair cases, new hives and an ENTIRE collection of LIGHT SHEAWOOD to build a brighter more upbeat homestead!
+
 <br>    
+
 All pieces are found in a dedicated "hammer", BJORKSNAS.</br>
 <p>
 item_BJORKSNAS takes FineWood, QueenBee and 999 Coins to craft. 
 Recipe can be locked/adjusted via SERVER SYNC config.</p>
 
-
+<br>
 
 Valkea only requires BEPINEX as a dependency. Why? I want this mod as vanilla friendly as possible. Don't like the recipes? Use a custom recipe editor. 
 
