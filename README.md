@@ -67,10 +67,10 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
    
 <sub> MODEL CREDITS
 
-Model Information:
-* title:	ミナミメダカ 骨格 Bones of the ricefish, Oryzias latipes
-* source:	https://sketchfab.com/3d-models/bones-of-the-ricefish-oryzias-latipes-e574548dc89c4cefa8d581fbb5bb5fb2
-* author:	ffish.asia / floraZia.com (https://sketchfab.com/ffishAsia-and-floraZia)
+<sub> Model Information:
+<sub> * title:	ミナミメダカ 骨格 Bones of the ricefish, Oryzias latipes
+<sub> * source:	https://sketchfab.com/3d-models/bones-of-the-ricefish-oryzias-latipes-e574548dc89c4cefa8d581fbb5bb5fb2
+<sub> * author:	ffish.asia / floraZia.com (https://sketchfab.com/ffishAsia-and-floraZia)
 
 Model Information:
 * title:	5 Props Assignment
