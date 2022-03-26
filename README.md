@@ -20,18 +20,15 @@ Recipe can be locked/adjusted via SERVER SYNC config.</p>
 
 Valkea only requires BEPINEX as a dependency. Why? I want this mod as vanilla friendly as possible. Don't like the recipes? Use a custom recipe editor. 
 
--
--
--
--
+<br><br><br>
 
 #### VALKEA WAS CREATED VIA BLAXXUN ITEM MANAGER AND AZUMATT ITEM TEMPLATE
-
-#### Big thanks to Blaxxun for itemmanager, Azu for template and putting up with me, GraveBear and Hugo for tips and tricks and KG for tellin' me to get good <3   
+<p>
+### **Big thanks to Blaxxun for itemmanager, Azu for template and putting up with me, GraveBear and Hugo for tips and tricks and KG for tellin' me to get good <3**   
 Thanks to all the other misc help from folks hanging out over at Odin+ Discord.
 
-
--
+<br><br><br>
+  
 Questions? Comments? Requests? 
 
 You can find me, (@Aseτιa) at:
