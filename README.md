@@ -23,9 +23,9 @@ Valkea only requires BEPINEX as a dependency. Why? I want this mod as vanilla fr
 <br><br><br>
 
 #### VALKEA WAS CREATED VIA BLAXXUN ITEM MANAGER AND AZUMATT ITEM TEMPLATE
-<p>
+<p>  
+  
 ### Big thanks to Blaxxun for itemmanager, Azu for template and putting up with me, GraveBear and Hugo for tips and tricks and KG for tellin' me to get good :orange_heart:       
-Thanks to all the other misc help from folks hanging out over at Odin+ Discord.
 
 <br><br><br>
   
