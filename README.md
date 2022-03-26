@@ -15,7 +15,7 @@ All pieces are found in a dedicated "hammer", BJORKSNAS.</br>
 <p>
 item_BJORKSNAS takes FineWood, QueenBee and 999 Coins to craft. 
 Recipe can be locked/adjusted via SERVER SYNC config.</p>
-  
+  <br>
 #### Install by unzipping package and dropping VALKEA.dll into your client side/and*or\ server plugins folder.
 asetia.VALKEA.cfg will generate upon running game/restarting server. 
 
