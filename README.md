@@ -52,10 +52,10 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
 
 ### Change Log Thingy:  
 <p>  
-1.0.0 Initial Public Release  
+> 1.0.0 Initial Public Release  
   <br><br><br>  
   <br><br><br>  
-
+<br><br><br>  
 MODEL CREDITS
 
 Model Information:
