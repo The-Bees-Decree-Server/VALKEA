@@ -31,20 +31,16 @@ Valkea only requires BEPINEX as a dependency. Why? I want this mod as vanilla fr
 ### Big thanks to Blaxxun for itemmanager, Azu for template and putting up with me, GraveBear and Hugo for tips and tricks and KG for tellin' me to get good :orange_heart:       Could not have done it without all the help!
 
 <br><br><br>
+<p align="center"><h2>For Questions or Comments find us in the Odin Plus Team Discord:</h2></p>
+
+<p align="center"><a href="https://discord.gg/mbkPcvu9ax"><img src="https://i.imgur.com/Ji3u63C.png"></a></p>
+
+ or
+
+ 
+<p align="center"><h2> You can find me, (@Aseτιa) at my Hive, The Bees Decree::</h2></p>
   
-#### Questions? Comments? Requests? 
-
-You can find me, (@Aseτιa) at:
-
-My Hive, The Bees Decree- A lowkey unique public valhiem server:
-
-https://discord.com/channels/897297886012911656/897924123349639168
-
-or
-
-Odin+ Discord:
-
-https://discord.com/channels/826573164371902465/826573164371902467
+<p align="center"><a href="https://discord.gg/s4sPPccs"><img src="https://imgur.com/9X9lzaC"></a></p>
 
 <br><br>  
 Dont be TOO rough with me now, this is my first mod! :sweat_smile:  
