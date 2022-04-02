@@ -251,4 +251,56 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
 <sub> Model Information:
 <sub> * title:	Whiskey and Wine Low-Poly Bottles
 <sub> <sub> * source:	https://sketchfab.com/3d-models/whiskey-and-wine-low-poly-bottles-99999f032f624e8cb05651f041dbf8eb
-<sub> * author:	THunter (https://sketchfab.com/TwilightHunter)</sub>  
+<sub> * author:	THunter (https://sketchfab.com/TwilightHunter)  
+
+<sub> Model Information:
+<sub> * title:	Cushion
+<sub> * source:	https://sketchfab.com/3d-models/cushion-9eb2ebeeec984945aba1d5ee555d1bd3
+<sub> * author:	aurelkillers1 (https://sketchfab.com/aurelkillers1)
+
+<sub> Model Information:
+<sub> * title:	Lilli 2 Seat Garden Swing 2 Animated
+<sub> * source:	https://sketchfab.com/3d-models/lilli-2-seat-garden-swing-2-animated-47591088bb704cb5b9e64c660c9de2ba
+<sub> * author:	kriti.ienhance (https://sketchfab.com/kriti.ienhance)
+
+
+<sub> Model Information:
+<sub> * title:	3December2020 - Day 8 - Pie
+<sub> * source:	https://sketchfab.com/3d-models/3december2020-day-8-pie-dd465f545a654f8da288d5dc07edbdad
+<sub> * author:	Chaitanya Krishnan (https://sketchfab.com/chaitanyak)
+
+
+<sub> Model Information:
+<sub> * title:	Cherry Pie - #3December2020 Day8
+<sub> * source:	https://sketchfab.com/3d-models/cherry-pie-3december2020-day8-37e00109d5b04b859f7116742a9c3955
+<sub> * author:	LordDiego (https://sketchfab.com/LordDiego)
+
+<sub> Model Information:
+<sub> * title:	Chocolate tart
+<sub> * source:	https://sketchfab.com/3d-models/chocolate-tart-2f066d87d3fb4067bba10f8d159bb7da
+<sub> * author:	Janis Zeps (https://sketchfab.com/zeps9001)
+
+<sub> Model Information:
+<sub> * title:	Hand Painted Fruit Tart
+<sub> * source:	https://sketchfab.com/3d-models/hand-painted-fruit-tart-f3da1bfe4abf460aa693c597cc762690
+<sub> * author:	Alex Reyes (https://sketchfab.com/MacCowboy)
+
+<sub> Model Information:
+<sub> * title:	Lemon Meringue Pie
+<sub> * source:	https://sketchfab.com/3d-models/lemon-meringue-pie-3d9bc3fe92934c998ada834711c1ed6e
+<sub> * author:	matousekfoto (https://sketchfab.com/matousekfoto)
+
+<sub> Model Information:
+<sub> * title:	Pie_Test
+<sub> * source:	https://sketchfab.com/3d-models/pie-test-0cdceff1f9744759ab3b407b96f498d6
+<sub> * author:	3dcerino (https://sketchfab.com/3dcerino)
+
+<sub> Model Information:
+<sub> * title:	Pumpkin Pie (3December2020 Day 8)
+<sub> * source:	https://sketchfab.com/3d-models/pumpkin-pie-3december2020-day-8-01cf70b90ab8487d8a822abf13454406
+<sub> * author:	bicho.salem (https://sketchfab.com/bicho.salem)
+
+<sub> Model Information:
+<sub> * title:	Iranian Restaurant Couch bed
+<sub> * source:	https://sketchfab.com/3d-models/iranian-restaurant-couch-bed-ddea88d7d2b04416bc6764cced120352
+<sub> * author:	Shahriar Shahrabi (https://sketchfab.com/shahriyarshahrabi)
