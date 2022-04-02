@@ -303,4 +303,4 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
 <sub> Model Information:
 <sub> * title:	Iranian Restaurant Couch bed
 <sub> * source:	https://sketchfab.com/3d-models/iranian-restaurant-couch-bed-ddea88d7d2b04416bc6764cced120352
-<sub> * author:	Shahriar Shahrabi (https://sketchfab.com/shahriyarshahrabi)
+<sub> * author:	Shahriar Shahrabi (https://sketchfab.com/shahriyarshahrabi)1
