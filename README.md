@@ -1,4 +1,4 @@
-# VALKEA 1.0.0
+# VALKEA 1.1.0
 A creation from The Hive.  
 
 <br><br>
