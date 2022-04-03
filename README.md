@@ -51,7 +51,17 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
 
 ### Change Log Thingy:  
 <p>  
-- 1.0.0 Initial Public Release  
+- 1.0.0 Initial Public Release
+
+1.1.0
+
+- Fixed pieces with missing W&T
+- Sheawood Iron has proper structural integrity
+- Adjusted colliders on Suspension Bridges for hopefully easier placement.
+- Adjusted spiral stairs for 2 versions (of each)
+- Moved some pieces categories to be with like items
+- Misc things
+- Added several request pieces (OUT OF ROOM NO MORE REQUESTS! SORRY)  
   <br><br><br>  
   <br><br><br>  
 <br><br><br>  
