@@ -1,4 +1,4 @@
-# VALKEA 1.1.0
+# VALKEA v1.1.0
 A creation from The Hive.  
 
 <br><br>
@@ -51,9 +51,9 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
 
 ### Change Log Thingy:  
 <p>  
-- 1.0.0 Initial Public Release
+- v1.0.0 Initial Public Release
 
-1.1.0
+v1.1.0
 
 - Fixed pieces with missing W&T
 - Sheawood Iron has proper structural integrity
