@@ -62,6 +62,18 @@ v1.1.0
 - Moved some pieces categories to be with like items
 - Misc things
 - Added several request pieces (OUT OF ROOM NO MORE REQUESTS! SORRY)  
+
+v1.2.0
+
+v1.2.0
+
+- moar smooth stone.
+- Some house keeping.
+- edited some ugly colliders.
+- Crates localization edit.
+- If your Church Organ explodes, im apologizing in advance. It does not like being on the second floor of buildings and is extraordinarily particular about its placement. Still working on it.
+
+
   <br><br><br>  
   <br><br><br>  
 <br><br><br>  
