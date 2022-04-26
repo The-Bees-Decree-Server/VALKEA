@@ -1,4 +1,4 @@
-# VALKEA v1.1.0
+# VALKEA v1.3.0
 A creation from The Hive.  
 
 <br><br>
@@ -65,14 +65,17 @@ v1.1.0
 
 v1.2.0
 
-v1.2.0
-
 - moar smooth stone.
 - Some house keeping.
 - edited some ugly colliders.
 - Crates localization edit.
 - If your Church Organ explodes, im apologizing in advance. It does not like being on the second floor of buildings and is extraordinarily particular about its placement. Still working on it.
 
+v1.3.0
+
+- edited smooth stone blocks proportions to match floor/tile
+- edited some snappoints and added more 'tegirty
+- added yet another, hopefully not haunted Church Organ
 
   <br><br><br>  
   <br><br><br>  
