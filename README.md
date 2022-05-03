@@ -1,4 +1,4 @@
-# VALKEA v1.3.0
+# VALKEA v1.3.5
 A creation from The Hive.  
 
 <br><br>
@@ -77,6 +77,13 @@ v1.3.0
 - edited some snappoints and added more 'tegirty
 - added yet another, hopefully not haunted Church Organ
 
+  
+v1.3.5
+- Swedish Meat Pie, made with my strong hand.
+- Most pieces were edited to have less eye burning glare.
+- Troughs are a wee bit bigger.
+
+  
   <br><br><br>  
   <br><br><br>  
 <br><br><br>  
