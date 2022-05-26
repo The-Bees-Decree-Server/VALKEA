@@ -1,4 +1,4 @@
-# VALKEA v1.3.5
+# VALKEA v1.4.0
 A creation from The Hive.  
 
 <br><br>
@@ -83,6 +83,16 @@ v1.3.5
 - Most pieces were edited to have less eye burning glare.
 - Troughs are a wee bit bigger.
 
+
+v1.4.0
+
+Added Aged Jungle/Swampy Suspension Bridges.
+Vikings in glass crafted houses shouldnt throw stones.
+Pieces now with even less plastic fantastic.
+Because you needed another smooth stone block.
+Solved the mystery of the missing weenies.
+Boy were those some ugly snap points y'all lol
+Added list of prefabs to zip
   
   <br><br><br>  
   <br><br><br>  
