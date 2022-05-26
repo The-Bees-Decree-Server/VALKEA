@@ -86,13 +86,13 @@ v1.3.5
 
 v1.4.0
 
-Added Aged Jungle/Swampy Suspension Bridges.
-Vikings in glass crafted houses shouldnt throw stones.
-Pieces now with even less plastic fantastic.
-Because you needed another smooth stone block.
-Solved the mystery of the missing weenies.
-Boy were those some ugly snap points y'all lol
-Added list of prefabs to zip
+- Added Aged Jungle/Swampy Suspension Bridges.
+- Vikings in glass crafted houses shouldnt throw stones.
+- Pieces now with even less plastic fantastic.
+- Because you needed another smooth stone block.
+- Solved the mystery of the missing weenies.
+- Boy were those some ugly snap points y'all lol
+- Added list of prefabs to zip
   
   <br><br><br>  
   <br><br><br>  
