@@ -1,4 +1,5 @@
-# VALKEA v1.4.0
+# VALKEA v1.4.5
+
 A creation from The Hive.  
 
 <br><br>
@@ -49,50 +50,7 @@ Sorry the readme is ugly. ¯\_(ツ)_/¯
 
 <br><br><br>
 
-### Change Log Thingy:  
-<p>  
-- v1.0.0 Initial Public Release
-
-v1.1.0
-
-- Fixed pieces with missing W&T
-- Sheawood Iron has proper structural integrity
-- Adjusted colliders on Suspension Bridges for hopefully easier placement.
-- Adjusted spiral stairs for 2 versions (of each)
-- Moved some pieces categories to be with like items
-- Misc things
-- Added several request pieces (OUT OF ROOM NO MORE REQUESTS! SORRY)  
-
-v1.2.0
-
-- moar smooth stone.
-- Some house keeping.
-- edited some ugly colliders.
-- Crates localization edit.
-- If your Church Organ explodes, im apologizing in advance. It does not like being on the second floor of buildings and is extraordinarily particular about its placement. Still working on it.
-
-v1.3.0
-
-- edited smooth stone blocks proportions to match floor/tile
-- edited some snappoints and added more 'tegirty
-- added yet another, hopefully not haunted Church Organ
-
-  
-v1.3.5
-- Swedish Meat Pie, made with my strong hand.
-- Most pieces were edited to have less eye burning glare.
-- Troughs are a wee bit bigger.
-
-
-v1.4.0
-
-- Added Aged Jungle/Swampy Suspension Bridges.
-- Vikings in glass crafted houses shouldnt throw stones.
-- Pieces now with even less plastic fantastic.
-- Because you needed another smooth stone block.
-- Solved the mystery of the missing weenies.
-- Boy were those some ugly snap points y'all lol
-- Added list of prefabs to zip
+### Find Change Logs in Versions
   
   <br><br><br>  
   <br><br><br>  
