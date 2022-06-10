@@ -37,18 +37,7 @@ Valkea only requires BEPINEX as a dependency. Why? I want this mod as vanilla fr
 
 <p align="center"><a href="https://discord.gg/mbkPcvu9ax"><img src="https://i.imgur.com/Ji3u63C.png"></a></p>
 
-or
 
-
-<p align="center"><h2> You can find me, (@Aseτιa) at my Hive, The Bees Decree::</h2></p>
-
-<p align="center"><a href="https://discord.gg/s4sPPccs"><img src="https://i.imgur.com/b2LTSow.png"></a></p>
-
-<br><br>  
-Dont be TOO rough with me now, this is my first mod! 
-Sorry the readme is ugly. ¯\_(ツ)_/¯
-
-<br><br><br>
 
 ### Find Change Logs in Versions
   
