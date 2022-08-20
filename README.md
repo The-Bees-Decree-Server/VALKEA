@@ -1,4 +1,4 @@
-# VALKEA v1.4.5
+# VALKEA v1.4.5 (WILL SOON DEPRECIATE)
 
 A creation from The Hive.  
 
