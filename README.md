@@ -1,5 +1,4 @@
-#VALKEA 1.0.0
-A creation from The Hive.
+#VALKEA 
 
 250+ Brand Spanking New Build Pieces for a more upbeat homestead.
 
@@ -19,27 +18,13 @@ new hives and an ENTIRE collection of LIGHT SHEAWOOD to build a brighter more up
 
 #### VALKEA WAS CREATED VIA BLAXXUN ITEM MANAGER AND AZUMATT ITEM TEMPLATE
 
-####Big thanks to Blaxxun for itemmanager, Azu for template and putting up with me, GraveBear and Hugo for tips and tricks and KG for tellin' me to get good <3 
-Thanks to all the other misc help from folks hanging out over at Odin+ Discord.
 
 
--
-Questions? Comments? Requests? 
 
-You can find me, (@Aseτιa) at:
+Mod created by, The Bees Decree- A lowkey unique public valhiem server:
 
-My Hive, The Bees Decree- A lowkey unique public valhiem server:
+https://discord.gg/Kwr9Fff3DF
 
-https://discord.com/channels/897297886012911656/897924123349639168
-
-or
-
-Odin+ Discord:
-
-https://discord.com/channels/826573164371902465/826573164371902467
-
--
-Dont be TOO rough with me now, this is my first mod! lol
 
 Sorry the readme is ugly.
 
