@@ -1,4 +1,4 @@
-# VALKEA v1.4.5 (WILL DEPRECIATE)[Mod set to be taken over by server staff. Will be rebuilt. Original version will depreciate once rebuilt.]
+# VALKEA v1.4.5 (WILL DEPRECIATE)
 
 A creation from The Hive.  
 
