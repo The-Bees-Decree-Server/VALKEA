@@ -1,6 +1,6 @@
 <center>  
  
-# VALKEA v2.0.0
+# VALKEA v2.0.2
 
    
 
@@ -79,5 +79,11 @@ Install by unzipping package and dropping *VALKEA.dll* into your client side and
 **v2.0.0 Initial Release/Rebuild/Revamp**
 > - Texture overhaul, more valheim like.
 > - Few new goodies, including a functional ladder.
+> 
+</p>   
+
+**v2.0.2 **
+> - Small tweaks.
+> - Server Sync Update.
 > 
 </p>
