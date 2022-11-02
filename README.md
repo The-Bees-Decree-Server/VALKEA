@@ -1,6 +1,6 @@
 <center>  
  
-# VALKEA v2.0.2
+# VALKEA v2.0.4
 
    
 
@@ -86,4 +86,10 @@ Install by unzipping package and dropping *VALKEA.dll* into your client side and
 > - Small tweaks.
 > - Server Sync Update.
 > 
+</p>
+   
+   
+ ** v2.0.4 **
+> - Potential Server Sync Update.
+> - If non functional please use mod locally, sorry.
 </p>
