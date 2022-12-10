@@ -1,6 +1,7 @@
 <center>  
  
-# VALKEA v2.0.4
+# VALKEA v2.1.4
+MISTLANDS 
 
    
 
@@ -92,4 +93,10 @@ Install by unzipping package and dropping *VALKEA.dll* into your client side and
  ** v2.0.4 **
 > - Potential Server Sync Update.
 > - If non functional please use mod locally, sorry.
+
+</p>
+   
+   
+ ** v2.1.4 **
+> - Mistlands Release
 </p>
