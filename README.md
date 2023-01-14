@@ -18,7 +18,7 @@ Many items are spread across different hammer tabs in order for all pieces to be
 
 All pieces are found in a dedicated "hammer", *BJORKSNAS*.  
 
-*BJORKSNAS* takes FineWood, QueenBee and 999 Coins to craft. 
+*BJORKSNAS* takes FineWood, QueenBee and 99 Coins to craft. 
 Hammer recipe can be locked/adjusted via SERVER SYNC config.  
 </h6>
 
