@@ -67,15 +67,6 @@ Install by unzipping package and dropping *VALKEA.dll* into your client side and
   <br>
     
 
-### Looking for a laidback essentric & creative server?   Check out the hive, <p> [The Bees Decree Server](https://discord.gg/Kwr9Fff3DF)      
-![Follow the Bees](https://i.imgur.com/avvB7Eg.png)
-
-
-##### Valkea was refreshed for and by The Bees Decree Server devs and very special thanks to *Suddhodana*! 
-  
-</center>   
-</center>
-
 > #### Change Log: <p>
 **v2.0.0 Initial Release/Rebuild/Revamp**
 > - Texture overhaul, more valheim like.
