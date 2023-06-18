@@ -1,6 +1,6 @@
 <center>  
  
-# VALKEA v2.1.5
+# VALKEA v2.1.6
 MISTLANDS 
 
    
@@ -67,27 +67,3 @@ Install by unzipping package and dropping *VALKEA.dll* into your client side and
   <br>
     
 
-> #### Change Log: <p>
-**v2.0.0 Initial Release/Rebuild/Revamp**
-> - Texture overhaul, more valheim like.
-> - Few new goodies, including a functional ladder.
-> 
-</p>   
-
-**v2.0.2 **
-> - Small tweaks.
-> - Server Sync Update.
-> 
-</p>
-   
-   
- ** v2.0.4 **
-> - Potential Server Sync Update.
-> - If non functional please use mod locally, sorry.
-
-</p>
-   
-   
- ** v2.1.4 **
-> - Mistlands Release
-</p>
