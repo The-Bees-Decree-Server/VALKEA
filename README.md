@@ -1,6 +1,6 @@
 <center>  
  
-# VALKEA v2.1.7
+# VALKEA v2.1.9
 Hildir
 
    
@@ -51,19 +51,17 @@ Install by unzipping package and dropping *VALKEA.dll* into your client side and
    
   
 <p>
-# PLEASE NOTE: THIS IS A RERIPPED VERSION, our devs did their best for all pieces to have the same piece_NAMEs and scripts. Some things may not be 100% the same.
-# Hence please BACK UP YOUR WORLD before making a 1:1 switch to VALKEA v2.0.0 for any previous v1.x.x! 
+### Like what our Dev developed? [Show Her some love](https://www.paypal.com/donate?hosted_button_id=4TYSZ8JKN7TFJ)   
 
-<p>
-> Note: Basket Hive Functions as a normal hive, it requires NO ACTUALLY sacrifices beyoned the bones needed to build it! 
- 
-<br><br>
-
-## Please direct all comments and issues to our [GITHUB](https://github.com/The-Bees-Decree-Server/VALKEA)!
+  <br>
+  
+  
+  # Wanna play Valhiem on a unique laidback dedicated server? Check out  [The Bees Decree Discord](https://discord.gg/vMZ5MHuP7t)! 
+This is a private discord do not join for mod help- you wont get it. :)
+    
+<br>
+<br>
+    
 
   
-
-### Like what we've developed? [Buy us a mead!](https://www.paypal.com/donate?hosted_button_id=4TYSZ8JKN7TFJ)   
-  <br>
-    
 
