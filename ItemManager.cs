@@ -21,12 +21,14 @@ public enum CraftingTable
 	Inventory,
 	[InternalName("piece_workbench")] Workbench,
 	[InternalName("piece_cauldron")] Cauldron,
+	[InternalName("piece_MeadCauldron")] MeadCauldron,
 	[InternalName("forge")] Forge,
 	[InternalName("piece_artisanstation")] ArtisanTable,
 	[InternalName("piece_stonecutter")] StoneCutter,
 	[InternalName("piece_magetable")] MageTable,
+	[InternalName("piece_preptable")] PrepTable,
 	[InternalName("blackforge")] BlackForge,
-	Custom
+	Custom,
 }
 
 [PublicAPI]
@@ -1026,7 +1028,7 @@ public class Item
 		UnityEngine.Object.Destroy(topLight);
 	}
 
-	private static bool CheckItemIsUpgrade(InventoryGui gui) => gui.m_selectedRecipe.Value?.m_quality > 0;
+	private static bool CheckItemIsUpgrade(InventoryGui gui) => gui.m_selectedRecipe.ItemData?.m_quality > 0;
 
 	internal static IEnumerable<CodeInstruction> Transpile_InventoryGui(IEnumerable<CodeInstruction> instructions)
 	{
@@ -1541,7 +1543,7 @@ public static class PrefabManager
 			RegisterStatusEffect(shared.m_setStatusEffect);
 		}
 
-		__instance.UpdateItemHashes();
+		__instance.UpdateRegisters();
 	}
 
 	[HarmonyPriority(Priority.VeryHigh)]
