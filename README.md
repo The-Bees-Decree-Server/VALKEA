@@ -1,7 +1,7 @@
 
 
  
-# VALKEA v3.0.0 - !!! Bog Witch !!!   
+# VALKEA v3.1.0 - !!! Valheim 1.0 !!!   
    
    
 # READ!!! THIS MOD NOW HAS A DEPENDANCY ON JOTUNN (JVL). SINCE THE CHANGE PLEASE BACK UP YOUR WORLD FIRST JUST TO BE SAFE!!!  
@@ -75,6 +75,19 @@ This is a private discord do not join for mod help- you wont get it. :)
 
       
 > #### Change Log: <p>
+
+>v3.1.0   
+>-Config file TheBeesDecree.VALKEA.cfg, synced from the server: BJORKSNAS recipe, and whether spiral stairs need support   
+-Stone, metal and glass pieces no longer burn, and stone and metal resist Ashlands ash like vanilla stone   
+-Smooth stone columns and other stone pieces no longer break when snapped to a floor corner or edge   
+-The Glass Ceiling counts as a roof: rain, fire and snow no longer get through   
+-The Miofellian Ladder is solid; E still climbs it   
+-Smooth Stone Block III snaps and collides as a true 3x2x1 block   
+-Fixed fall oak leaves turning into opaque blocks with Seasonality: VALKEA's bundled copies of game materials are renamed VALKEA_*  
+
+>v3.0.1   
+>-Updated for Valheim 1.0: BJORKSNAS pieces get build menu tags (Food, Misc, Building, Furniture, plus Walls, Floors, Roofs, Stairs, Doors, Storage)   
+-Requires Jotunn 2.30.2 or newer  
 
 >v3.0.0   
 >-Compiled against latest version of game   
