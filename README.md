@@ -1,7 +1,7 @@
 
 
  
-# VALKEA v3.0.0 - !!! Bog Witch !!!   
+# VALKEA v3.0.1 - !!! Valheim 1.0 !!!   
    
    
 # READ!!! THIS MOD NOW HAS A DEPENDANCY ON JOTUNN (JVL). SINCE THE CHANGE PLEASE BACK UP YOUR WORLD FIRST JUST TO BE SAFE!!!  
@@ -75,6 +75,10 @@ This is a private discord do not join for mod help- you wont get it. :)
 
       
 > #### Change Log: <p>
+
+>v3.0.1   
+>-Updated for Valheim 1.0: BJORKSNAS pieces get build menu tags (Food, Misc, Building, Furniture, plus Walls, Floors, Roofs, Stairs, Doors, Storage)   
+-Requires Jotunn 2.30.2 or newer  
 
 >v3.0.0   
 >-Compiled against latest version of game   

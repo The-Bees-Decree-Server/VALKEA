@@ -1,0 +1,13 @@
+(you made us do it) ¯\_(ツ)_/¯ 
+
+
+Copyright 2022 The Bees Decree
+
+0 Permissions are granted to end users beyond use of DLL for modding game purposes. End users MAY repackaged DLL in modpacks WITHOUT consquence. Ripping or reuploading of assets is expressly not permissable.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+to deal in the Software in the means of personal/server game modding ONLY. The extractions and use of custom/licensed assets is not granted. One must inquire about such use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

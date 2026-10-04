@@ -1,0 +1,10 @@
+{
+    "name": "VALKEA",
+    "version_number": "3.0.1",
+    "website_url": "https://github.com/The-Bees-Decree-Server/VALKEA",
+    "description": "Over 300 Brand Spanking New Upbeat Build Pieces - VALHEIM 1.0",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2351",
+        "ValheimModding-Jotunn-2.30.2"
+    ]
+}

@@ -1,0 +1,81 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>VALKEA</AssemblyName>
+    <RootNamespace>VALKEA</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Version>3.0.1</Version>
+    <Company>TheBeesDecree</Company>
+    <Product>VALKEA</Product>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <DebugType>none</DebugType>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <!-- Paths: override with -p:GamePath=..., -p:BepInExCore=..., -p:JotunnPath=... if your layout differs -->
+  <PropertyGroup>
+    <GamePath Condition="'$(GamePath)' == ''">C:\Program Files (x86)\Steam\steamapps\common\Valheim</GamePath>
+    <ManagedPath>$(GamePath)\valheim_Data\Managed</ManagedPath>
+    <BepInExCore Condition="'$(BepInExCore)' == ''">$(GamePath)\BepInEx\core</BepInExCore>
+    <ProfilePath Condition="'$(ProfilePath)' == ''">$(APPDATA)\r2modmanPlus-local\Valheim\profiles\LocalTesting</ProfilePath>
+    <JotunnPath Condition="'$(JotunnPath)' == ''">$(ProfilePath)\BepInEx\plugins\ValheimModding-Jotunn\Jotunn.dll</JotunnPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+
+  <!-- The piece bundle is too large for git: put it at assets\bjorksnas (see BUILDING.md) -->
+  <ItemGroup>
+    <EmbeddedResource Include="assets\bjorksnas" LogicalName="VALKEA.assets.bjorksnas" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx">
+      <HintPath>$(BepInExCore)\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>$(BepInExCore)\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Jotunn">
+      <HintPath>$(JotunnPath)</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="assembly_valheim">
+      <HintPath>$(ManagedPath)\assembly_valheim.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(ManagedPath)\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(ManagedPath)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>$(ManagedPath)\UnityEngine.AssetBundleModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="CopyToDist" AfterTargets="Build">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(MSBuildProjectDirectory)\dist" />
+    <Message Importance="high" Text="VALKEA build finished: $(MSBuildProjectDirectory)\dist\VALKEA.dll" />
+  </Target>
+
+  <!-- dotnet build -c Release -t:PackageMod : the Thunderstore zip in dist\ -->
+  <Target Name="PackageMod" DependsOnTargets="Build">
+    <PropertyGroup>
+      <StageDir>$(MSBuildProjectDirectory)\dist\package</StageDir>
+    </PropertyGroup>
+    <RemoveDir Directories="$(StageDir)" />
+    <Copy SourceFiles="$(TargetPath);package\manifest.json;package\icon.png;package\LICENSE.txt;README.md;PrefabList.md" DestinationFolder="$(StageDir)" />
+    <ZipDirectory SourceDirectory="$(StageDir)" DestinationFile="$(MSBuildProjectDirectory)\dist\VALKEA-$(Version).zip" Overwrite="true" />
+    <Message Importance="high" Text="VALKEA package: $(MSBuildProjectDirectory)\dist\VALKEA-$(Version).zip" />
+  </Target>
+
+</Project>

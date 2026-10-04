@@ -1,0 +1,6 @@
+bin/
+obj/
+dist/
+
+# The piece bundle (146 MB) is over GitHub's file size limit; extract it from the released VALKEA.dll
+assets/bjorksnas
